@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unity, inspired by spaceship games. This was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Prototyping" course (session 2 of 5).
+This is a prototype made in Unity, inspired by spaceship games. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne and is one of the project made within the "Prototyping" course (session 2 of 5).
 
 ## F.A.Q.
 
